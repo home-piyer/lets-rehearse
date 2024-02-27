@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "794556877104",
+    "project_id": "solo-rehearsal",
+    "storage_bucket": "solo-rehearsal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794556877104:android:10aa7c5c9eec71f3b3e0f5",
+        "android_client_info": {
+          "package_name": "com.example.solo_rehearsal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794556877104-vc2ilmgqfsfvr5tdo4rc0j3ikden2i40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNyrlx8oMgr1UkDW7ok00a5FfiKG6wVJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794556877104-vc2ilmgqfsfvr5tdo4rc0j3ikden2i40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "794556877104-2gml8n95ad03ossqd1diqrtnisibkhe2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.soloRehearsal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
