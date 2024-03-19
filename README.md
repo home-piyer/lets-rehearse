@@ -1,4 +1,4 @@
-# solo_rehearsal
+# Let's Rehearse!
 
 This app serves as a virtual rehearsal partner. After inputting a script, the app allows users to specify their character's lines. The app then plays back the dialogue of other characters, pausing for the characters' lines. To simplify the process, there is also an image-to-text feature for script input. Users can save the script to their login. 
 
